@@ -1,6 +1,4 @@
 # mental_mametchi
-Most Incredible Rust Cli Program
-<p align:center> 
-![mametchi](https://github.com/user-attachments/assets/04e64765-eee0-41a3-bb35-ffe5b158c5bb)
+Most Incredible Rust Cli Program <br>
+![mametchi](https://github.com/user-attachments/assets/865f6e15-1f51-45d1-a26f-94d90fa775b5)
 
-</p>
